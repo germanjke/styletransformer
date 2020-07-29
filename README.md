@@ -3,6 +3,8 @@
 ### About
 Bot's name: **@styletransferjune2020bot**, try it! 
 
+UPD: It's over cause my AWS free month is over :)
+
 When you want to impose some kind of style on an image, you can use just such a bot.
 The bottom line is simple: upload an image with content, upload a style, the bot itself creates a connected image.
 To better understand what is at stake, take a look at a few examples:
