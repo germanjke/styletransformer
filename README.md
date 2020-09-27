@@ -1,5 +1,6 @@
 # StyleTransformerGANs
 ## Final project to Deep Learning School. Style Trasformer via telegram bot.
+## You can check how this works in demo notebooks
 ### About
 Bot's name: **@styletransferjune2020bot**, try it! 
 
